@@ -17,9 +17,11 @@ The registration fee covers course attendance, coffee breaks and lunches. The re
 * General Registration: £100
 * PhD students at Scottish Universities: £0 (Thanks to our generous sponsorship from the Scottish Informatics and Computer Science Alliance)
 
+Registration is through the [St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/): SPLV'23 under Events, or use [this direct link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/computer-science/splv%E2%80%9923-scottish-programming-and-verification-summer-school-2023).
+
 ## Accommodation: 
 
-We have reserved a block for 5-night accommodation (Sunday to Friday) in student dorms, at £49 per night per person. 
+We have reserved a block for 5-night accommodation (Sunday to Friday) in student dorms, at £49 per night per person. You can [book yourself](https://bnb.st-andrews.ac.uk/resbus/bnb/); please get in touch to get a discount code.
 
 ## Further Information: 
 
