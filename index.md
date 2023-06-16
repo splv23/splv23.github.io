@@ -1,3 +1,6 @@
+---
+title: SPLV 2023
+---
 # SPLV23: Scottish Programming Languages and Verification Summer School, 2023
 
 This year, the [Scottish Programming Languages and Verification Summer School](http://www.macs.hw.ac.uk/splv/) will be held in St Andrews. The event is organized by the [School of Computer Science](https://www.st-andrews.ac.uk/computer-science) at the [University of St Andrews](https://www.st-andrews.ac.uk).
