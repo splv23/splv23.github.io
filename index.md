@@ -32,7 +32,7 @@ Registration is through the [St Andrews Online Shop](https://onlineshop.st-andre
 
 ## Accommodation: 
 
-We have reserved a block for 5-night accommodation (Sunday to Friday) in student dorms at the David Russell Apartments (DRA), at £49 per night per person (excluding VAT). You can [book yourself](https://bnb.st-andrews.ac.uk/resbus/bnb/); please get in touch to get a discount code.
+We have reserved a block for 4-night accommodation (Monday to Friday) in student dorms at the David Russell Apartments (DRA), at £49 per night per person (excluding VAT). You can [book yourself](https://bnb.st-andrews.ac.uk/resbus/bnb/); please get in touch to get a discount code.
 
 ## Further Information: 
 
