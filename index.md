@@ -9,6 +9,14 @@ SPLV 2023 is scheduled to run one full week: noon on **Monday 24 July** to noon 
 
 SPLV 2023 is kindly sponsored by the [Scottish Informatics and Computer Science Alliance](https://www.sicsa.ac.uk/).
 
+## Lecturers:
+
+* [Dominic Orchard](https://dorchard.github.io/) (University of Kent)
+* [Guillaume Allais](https://gallais.github.io/) (University of Strathclyde)
+* [Adam Barwell](https://risweb.st-andrews.ac.uk/portal/en/persons/adam-david-barwell(c0ef6569-08db-4f0f-96c0-6ca8871dcb66).html) (University of St Andrews)
+* [Simon Fowler](https://simonjf.com/about/) (University of Glasgow)
+* [Vashti Galpin](https://homepages.inf.ed.ac.uk/vgalpin1/) (Univeristy of Edinburgh)
+
 ## Prerequisites: 
 
 The school is aimed at PhD students in programming languages,  verification and related areas. Also, researchers and practitioners will be very welcome, as will strong master’s students with the support of a supervisor. Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic. 
