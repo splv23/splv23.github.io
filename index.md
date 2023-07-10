@@ -14,6 +14,7 @@ SPLV 2023 is kindly sponsored by the [Scottish Informatics and Computer Science 
 * [Dominic Orchard](https://dorchard.github.io/) (University of Kent)
 * [Guillaume Allais](https://gallais.github.io/) (University of Strathclyde)
 * [Adam Barwell](https://risweb.st-andrews.ac.uk/portal/en/persons/adam-david-barwell(c0ef6569-08db-4f0f-96c0-6ca8871dcb66).html) (University of St Andrews)
+* [James Cheney](https://homepages.inf.ed.ac.uk/jcheney/) (University of Edinburgh)
 * [Simon Fowler](https://simonjf.com/about/) (University of Glasgow)
 * [Vashti Galpin](https://homepages.inf.ed.ac.uk/vgalpin1/) (Univeristy of Edinburgh)
 
@@ -33,6 +34,48 @@ Registration is through the [St Andrews Online Shop](https://onlineshop.st-andre
 ## Accommodation: 
 
 We have reserved a block for 5-night accommodation (Sunday to Friday) in student dorms at the David Russell Apartments (DRA), at £49 per night per person (excluding VAT). You can [book yourself](https://bnb.st-andrews.ac.uk/resbus/bnb/); please get in touch to get a discount code.
+
+## Programme:
+
+### Monday 24th July
+
+* 2pm Vashti Galpin
+* 3:30pm Break
+* 4pm Simon Fowler
+
+### Tuesday 25th July
+
+* 9am Simon Fowler
+* 10:30am Break
+* 11am James Cheney
+* 12:30-2pm Lunch
+* 2pm Dominic Orchard
+* 3:30pm Break
+* 4pm Dominic Orchard
+
+### Wednesday 26th July
+
+* 9am Adam Barwell
+* 10:30am Break
+* 11am Guillaume Allais
+* 12:30-2pm Lunch
+* 2pm Dominic Orchard
+
+### Thursday 27th July
+
+* 9am Guillaume Allais
+* 10:30am Break
+* 11am Adam Barwell
+* 12:30-2pm Lunch
+* 2pm Dominic Orchard
+* 3:30pm Break
+* 4pm Student Lightning Talks
+
+### Friday 28th July
+
+* 9am Guillaume Allais
+* 10:30am Break
+* 11am Adam Barwell
 
 ## Further Information: 
 
