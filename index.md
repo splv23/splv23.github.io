@@ -63,9 +63,9 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 
 ### Thursday 27th July
 
-* 9am Guillaume Allais
+* 9am Adam Barwell
 * 10:30am Break
-* 11am Adam Barwell
+* 11am Guillaume Allais
 * 12:30-2pm Lunch
 * 2pm Dominic Orchard
 * 3:30pm Break
