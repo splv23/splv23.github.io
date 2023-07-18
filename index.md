@@ -18,9 +18,9 @@ SPLV 2023 is kindly sponsored by the [Scottish Informatics and Computer Science 
 * [Simon Fowler](https://simonjf.com/about/) (University of Glasgow) *Session Types*
 * [Vashti Galpin](https://homepages.inf.ed.ac.uk/vgalpin1/) (University of Edinburgh) *Temporal Tables in Links*
 
-## Prerequisites: 
+## Prerequisites:
 
-The school is aimed at PhD students in programming languages,  verification and related areas. Also, researchers and practitioners will be very welcome, as will strong master’s students with the support of a supervisor. Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic. 
+The school is aimed at PhD students in programming languages,  verification and related areas. Also, researchers and practitioners will be very welcome, as will strong master’s students with the support of a supervisor. Participants will need to have a background in computer science, mathematics or a related discipline, and have basic familiarity with (functional) programming and logic.
 
 ## Registration:
 
@@ -31,7 +31,7 @@ The registration fee covers course attendance, coffee breaks and lunches. The re
 
 Registration is through the [St Andrews Online Shop](https://onlineshop.st-andrews.ac.uk/): SPLV'23 under Events, or use [this direct link](https://onlineshop.st-andrews.ac.uk/conferences-and-events/events/computer-science/splv%E2%80%9923-scottish-programming-and-verification-summer-school-2023).
 
-## Accommodation: 
+## Accommodation:
 
 We have reserved a block for 4-night accommodation (Monday to Friday) in student dorms at the David Russell Apartments (DRA), at £49 per night per person (excluding VAT). You can [book yourself](https://bnb.st-andrews.ac.uk/resbus/bnb/); please get in touch to get a discount code.
 
@@ -57,7 +57,7 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 
 * 9am Adam Barwell
 * 10:30am Break
-* 11am Guillaume Allais
+* 11am Guillaume Allais - Dependent Types I: Introduction to Idris 2
 * 12:30-2pm Lunch
 * 2pm Dominic Orchard - Graded Types III: Communication, uniquneess, and mutation
 
@@ -65,7 +65,7 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 
 * 9am Adam Barwell
 * 10:30am Break
-* 11am Guillaume Allais
+* 11am Guillaume Allais - Dependent Types II: Generic Programming
 * 12:30-2pm Lunch
 * 2pm Dominic Orchard - Graded Types IV: Graded monads and effects
 * 3:30pm Break
@@ -73,13 +73,13 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 
 ### Friday 28th July
 
-* 9am Guillaume Allais
+* 9am Guillaume Allais - Dependent Types III: Programming Over Serialised Data
 * 10:30am Break
 * 11am Adam Barwell
 
-## Further Information: 
+## Further Information:
 
-Please contact one of the local organisers if you have any questions: 
+Please contact one of the local organisers if you have any questions:
 
 * Edwin Brady <ecb10@st-andrews.ac.uk>
 * Susmit Sarkar <Susmit.Sarkar@st-andrews.ac.uk>
