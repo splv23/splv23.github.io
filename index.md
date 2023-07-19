@@ -15,7 +15,7 @@ SPLV 2023 is kindly sponsored by the [Scottish Informatics and Computer Science 
 * [Guillaume Allais](https://gallais.github.io/) (University of Strathclyde) *Programming Over Serialised Data*
 * [Adam Barwell](https://risweb.st-andrews.ac.uk/portal/en/persons/adam-david-barwell(c0ef6569-08db-4f0f-96c0-6ca8871dcb66).html) (University of St Andrews) *Parallel Programming*
 * [James Cheney](https://homepages.inf.ed.ac.uk/jcheney/) (University of Edinburgh) *TBC*
-* [Simon Fowler](https://simonjf.com/about/) (University of Glasgow) *Session Types*
+* [Simon Fowler](https://simonjf.com/about/) (University of Glasgow) *Introduction to Session Types*
 * [Vashti Galpin](https://homepages.inf.ed.ac.uk/vgalpin1/) (University of Edinburgh) *Temporal Tables in Links*
 
 ## Prerequisites: 
@@ -41,11 +41,11 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 
 * 2pm Vashti Galpin
 * 3:30pm Break
-* 4pm Simon Fowler
+* 4pm Simon Fowler - Session Types I: Binary Session Types
 
 ### Tuesday 25th July
 
-* 9am Simon Fowler
+* 9am Simon Fowler - Session Types II: Multiparty Session Types
 * 10:30am Break
 * 11am James Cheney
 * 12:30-2pm Lunch
