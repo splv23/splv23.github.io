@@ -49,9 +49,9 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 * 10:30am Break
 * 11am James Cheney
 * 12:30-2pm Lunch
-* 2pm Dominic Orchard - Graded Types I: Theory and practice of linear and graded types
+* 2pm Dominic Orchard - Graded Types I: Theory and practice of linear types
 * 3:30pm Break
-* 4pm Dominic Orchard - Graded Type II: Combining indexing and graded types.
+* 4pm Dominic Orchard - Graded Type II: Extending from linear types to graded types
 
 ### Wednesday 26th July
 
@@ -59,7 +59,7 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 * 10:30am Break
 * 11am Guillaume Allais - Dependent Types I: Introduction to Idris 2
 * 12:30-2pm Lunch
-* 2pm Dominic Orchard - Graded Types III: Communication, uniquneess, and mutation
+* 2pm Dominic Orchard - Graded Types III: Communication, uniqueness, and mutation
 
 ### Thursday 27th July
 
@@ -67,7 +67,8 @@ We have reserved a block for 4-night accommodation (Monday to Friday) in student
 * 10:30am Break
 * 11am Guillaume Allais - Dependent Types II: Generic Programming
 * 12:30-2pm Lunch
-* 2pm Dominic Orchard - Graded Types IV: Graded monads and effects
+* 2pm Dominic Orchard - Graded Types IV: Grades in the wild via “graded base” and graded monads
+* 3pm Dominic Orchard - Programming for the Planet - PL and the Climate Crisis
 * 3:30pm Break
 * 4pm Student Lightning Talks
 
